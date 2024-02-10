@@ -1,0 +1,12 @@
+.welcome-msg{
+  font-size: 2.5em;
+  background-color: rgb(12, 231, 12);
+  padding: 10px;
+  margin: 0;
+}
+.login-msg{
+  font-size: 2.5em;
+  background-color: red;
+  padding: 10px;
+  margin: 0;
+}
